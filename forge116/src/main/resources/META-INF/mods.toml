@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+
+[[mods]]
+modId="updater"
+version="${version}"
+displayName="syncraft Updater"
+credits="Made by syncraft dev team"
+authors="changyun2333"
+description="syncraft mods updater."

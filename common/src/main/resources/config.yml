@@ -1,0 +1,8 @@
+updater:
+  enableProvider: true
+  clientPath: client
+  manifestPath: client_manifest.json
+  listenIp: 0.0.0.0
+  listenPort: 23333
+  requireUpdater: true
+  kickMessage: SynCraft Updater is required to enter this server

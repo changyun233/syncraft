@@ -1,0 +1,7 @@
+﻿name: SynCraftUpdater
+version: ${version}
+depend: []
+softdepend: []
+loadbefore: []
+
+main: org.syncraft.updater.bukkit.BukkitMain
